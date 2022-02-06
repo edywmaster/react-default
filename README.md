@@ -6,11 +6,11 @@ Este é um modelo de projeto template, para iniciar novos projetos React utiliza
 
 Base do projeto utilizada:
 
-- Para iniciar baixe o projeto [Git][React Clean 2022](https://github.com/edywmaster/react-clean).
+- Para iniciar baixe o projeto [React Clean 2022](https://github.com/edywmaster/react-clean).
 
 ### Dependêcias para o projeto
 
-LodaSH Merge
+LodaSH
 
 ```bash
 npm install --save lodash.merge
@@ -30,10 +30,10 @@ NextJS themes
 npm install --save-dev next-themes
 ```
 
-#### Biblioteca Radix
+### Biblioteca Radix
 
 Este projeto contém todos os componentes do Radix, mais só os seguites estão pré configurados:
----
+
 
 Radix Id Provider
 
@@ -53,23 +53,23 @@ Radix Separator
 npm install --save-dev @radix-ui/react-separator
 ```
 
-#### Biblioteca Radix Colors
+### Biblioteca Radix Colors
 
 ```bash
 npm install --save-dev @radix-ui/colors
 ```
 
-#### Biblioteca Radix Icons
+### Biblioteca Radix Icons
 
 ```bash
 npm install --save-dev @radix-ui/react-icons
 ```
 
 
-#### Biblioteca Stitches
+### Biblioteca Stitches
 
-Stitches é biblioteca para estilizar componentes ou criar design system. Saiba mais no site [Stitches.dev](https://stitches.dev/) ou Git [Git][Stitches](https://github.com/modulz/stitches)
----
+Stitches é biblioteca para estilizar componentes ou criar design system. Saiba mais no site [Stitches.dev](https://stitches.dev/) ou Git [Stitches](https://github.com/modulz/stitches)
+
 
 Instalação Stitches:
 
